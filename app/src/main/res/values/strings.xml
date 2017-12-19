@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">航管雷达室运维系统</string>
+    <string name="title_home">运行信息</string>
+    <string name="title_dashboard">工作计划</string>
+    <string name="title_notifications">当班计划</string>
+    <string name="goMyWeb"><a href='http://192.168.1.11:8080/RemindFOX'>航管雷达室公告板</a></string>
+</resources>
