@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
         // 让WebView能够执行javaScript
         webSettings.setJavaScriptEnabled(true);
         // 让JavaScript可以自动打开windows
-        //webSettings.setJavaScriptCanOpenWindowsAutomatically(true);
+        webSettings.setJavaScriptCanOpenWindowsAutomatically(true);
         // 设置缓存
         //webSettings.setAppCacheEnabled(true);
         // 设置缓存模式,一共有四种模式
